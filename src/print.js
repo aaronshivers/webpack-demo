@@ -1,3 +1,3 @@
-const printMe = () => conole.log('I get called from print.js!')
+const printMe = () => console.log('Updating print.js')
 
 export default printMe
